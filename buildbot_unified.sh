@@ -66,7 +66,7 @@ prep_build() {
     repopick 321337 -r -f # Deprioritize important developer notifications
     repopick 321338 -r -f # Allow disabling important developer notifications
     repopick 321339 -r -f # Allow disabling USB notifications
-    repopick 331627 -r -f # Apply monet to fingerprint authentication ripple animation
+    # repopick 331627 -r -f # Apply monet to fingerprint authentication ripple animation
     # repopick 340916 -r -f # SystemUI: add burnIn protection
 }
 
